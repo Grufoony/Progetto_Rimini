@@ -1,0 +1,10 @@
+venv
+*.aux
+*.log
+.vscode/c_cpp_properties.json
+*.gz
+*.fdb_latexmk
+*.fls
+*.out
+*.csv
+output
